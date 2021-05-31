@@ -22,7 +22,7 @@ The detailed change activity list, which includes all of the activities for the 
 ## Installation
 To use this project, first clone the repo on your device using the command below:
 
-git init
+git init <br>
 git clone https://github.com//RoryDataScience/AnomalieDetectionMethods.git
 
 ## Development: Algorithms Considered
@@ -47,7 +47,7 @@ git clone https://github.com//RoryDataScience/AnomalieDetectionMethods.git
 https://towardsdatascience.com/adrepository-anomaly-detection-datasets-with-real-anomalies-2ee218f76292
 
 ## Contribute
-**Adding new features or fixing bugs**
+**Adding new features or fixing bugs** <br>
 This section is to give people an idea how they can raise issues or feature requests in this project
 
 ## License
